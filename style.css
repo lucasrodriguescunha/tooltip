@@ -23,12 +23,12 @@ body {
 }
 
 #tooltipText {
-    position: absolute;
-    left: 50%;
-    top: 0;
-    transform: translate(-50%);
-    background-color: #000;
-    color: #fff;
-    white-space: nowrap;
-    padding: 10px 15px;
+  position: absolute;
+  left: 50%;
+  top: 0;
+  transform: translate(-50%);
+  background-color: #000;
+  color: #fff;
+  white-space: nowrap;
+  padding: 10px 15px;
 }
